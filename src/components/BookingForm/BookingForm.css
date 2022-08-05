@@ -1,0 +1,10 @@
+textarea{
+    border: 1px solid rgb(233, 229, 229);
+    outline: none;
+    padding: 10px;
+    /* margin-left: 10px !important; */
+    width: 83%;
+}
+.form_group{
+    width: 40% !important;
+}

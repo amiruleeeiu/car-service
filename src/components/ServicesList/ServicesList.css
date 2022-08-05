@@ -1,0 +1,11 @@
+.service_item span i{
+    color: #f9a826;
+    font-size: 2.3rem;
+}
+.service_item h6{
+    transition: .3s;
+    cursor: pointer;
+}
+.service_item h6:hover{
+    color: #f9a826;
+}

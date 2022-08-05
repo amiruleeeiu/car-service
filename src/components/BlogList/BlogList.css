@@ -1,0 +1,19 @@
+.blog_info h5{
+    color: #000d6b;
+}
+.blog_item{
+    border: 1px solid rgb(228, 225, 225);
+    margin: 10px 0px;
+}
+.blog_info{
+    margin: 20px;
+}
+.blog_info a{
+    color: #f9a826;
+}
+.blog_info i{
+    color: #f9a826;
+}
+.blog_bottom{
+    border-top: 1px solid rgb(211, 208, 208);
+} 

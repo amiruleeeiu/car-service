@@ -1,0 +1,16 @@
+.become_driver{
+    background: linear-gradient(rgba(2, 9, 65, 0.9), rgba(1, 6, 48, 0.5)),url('../../assets//all-images//slider-img//slider-1.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding: 50px 0px;
+}
+.become_drive_content h2{
+    color: #fff;
+}
+.become_drive_content button{
+    background: #fff !important;
+}
+.become_drive_content button:hover{
+    background: #fff;
+}
